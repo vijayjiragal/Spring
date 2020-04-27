@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a229569-5f39-4e71-85f7-a5494c8721ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1amdbIRjmuDanUwwVwxODgV4pav" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/InnerBeansAliasesidRef" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2701325" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\SpringLearningDemo\src\main\java\com\InnerBeansAliasesidRef" />
+      <recent name="F:\SpringLearningDemo\src\main\java\com" />
+      <recent name="F:\SpringLearningDemo\src\main\java" />
+      <recent name="F:\SpringLearningDemo\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\SpringLearningDemo" />
+      <recent name="F:\SpringLearningDemo\src" />
+      <recent name="F:\SpringLearningDemo\src\main\java\com\vijayjiragal" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DrawingApp (2)">
+    <configuration name="DrawingApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.injectingObjects.DrawingApp" />
+      <module name="SpringLearningDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.injectingObjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DrawingApp (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.InnerBeansAliasesidRef.DrawingApp" />
+      <module name="SpringLearningDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.InnerBeansAliasesidRef.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DrawingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.constructorInjection.DrawingApp" />
+      <module name="SpringLearningDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DrawingApp (2)" />
+        <item itemvalue="Application.DrawingApp (1)" />
+        <item itemvalue="Application.DrawingApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a229569-5f39-4e71-85f7-a5494c8721ab" name="Default Changelist" comment="" />
+      <created>1587344772678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587344772678</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" width="1171" height="683" key="#Project_Structure" timestamp="1587430058459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" width="1171" height="683" key="#Project_Structure/-3840.-487.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1587430058459" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587427468773">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/-3840.-487.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1587427468773" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1587513079607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/-3840.-487.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1587513079607" />
+    <state width="1878" height="133" key="GridCell.Tab.0.bottom" timestamp="1587516157156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="133" key="GridCell.Tab.0.bottom/-3840.-487.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1587516157156" />
+    <state width="1878" height="133" key="GridCell.Tab.0.center" timestamp="1587516157156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="133" key="GridCell.Tab.0.center/-3840.-487.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1587516157156" />
+    <state width="1878" height="133" key="GridCell.Tab.0.left" timestamp="1587516157156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="133" key="GridCell.Tab.0.left/-3840.-487.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1587516157156" />
+    <state width="1878" height="133" key="GridCell.Tab.0.right" timestamp="1587516157156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="133" key="GridCell.Tab.0.right/-3840.-487.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1587516157156" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1587430428828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/-3840.-487.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1587430428828" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1587351305944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/-3840.-487.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1587351305944" />
+    <state x="402" y="212" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1587427244988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="402" y="212" key="com.intellij.javaee.MapExternalResourceDialog/-3840.-487.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1587427244988" />
+    <state x="342" y="215" key="new project wizard" timestamp="1587429972175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="215" key="new project wizard/-3840.-487.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1587429972175" />
+  </component>
+</project>
